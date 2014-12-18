@@ -1,0 +1,2 @@
+C:\Users\Daniele\AndroidStudioProjects\SillyTunes\app\build\intermediates\classes\release
+C:\Users\Daniele\AndroidStudioProjects\SillyTunes\app\build\intermediates\pre-dexed\release\support-v4-18.0.0-2fc9483412c1ce242104d3886e341da80f0f0814.jar
